@@ -21,6 +21,7 @@ This shows how much of COCOBOD’s operating earnings are being consumed by inte
 ## Key Findings
 ### Trend Analysis
 <img src="https://github.com/user-attachments/assets/c8c99598-6279-481f-96b6-cb32888c4965" width="850" height="500" >
+
 From 2014 to 2021, COCOBOD’s financial journey tells a story of growing income overshadowed by mounting costs. The company’s revenue more than doubled over the eight-year period, rising from GH¢6 billion in 2014 to nearly GH¢13.7 billion in 2021. A sign of strong market performance and possibly favourable global cocoa prices. Gross profits, too, generally remained positive, peaking in 2020 at over GH¢2.1 billion. But beneath these encouraging figures lies a troubling trend: starting from 2016, COCOBOD recorded consistent net losses every year, with the most dramatic in 2021 at GH¢2.4 billion. This paradox of earning more yet losing more can be traced to steadily rising operational expenses and an alarming increase in finance costs. Operational costs jumped from GH¢1.1 billion to over GH¢2.5 billion during the period, while finance costs, mostly interest on loans, skyrocketed from GH¢243 million to GH¢1.5 billion. Even as COCOBOD succeeded in growing its top line, the weight of debt servicing and internal inefficiencies began to erode its profitability. The data suggests that the real challenge isn’t how much COCOBOD earns, but how much it spends and borrows to stay afloat.
 
 ### Operating Profit vs Finance Cost and Final Net Profit
