@@ -20,6 +20,8 @@ This shows how much of COCOBOD’s operating earnings are being consumed by inte
 
 ## Key Findings
 ### Trend Analysis
+<img src="https://github.com/user-attachments/assets/c8c99598-6279-481f-96b6-cb32888c4965" width="850" height="500" >
+
 While COCOBOD has often reported strong revenues and gross profits, a closer look at the relationship between operating profit and finance costs reveals the real source of its persistent losses. Between 2014 and 2015, the company remained profitable because its operating profits were high enough to comfortably absorb finance costs. However, from 2016 onward, a troubling trend emerged: finance costs consistently exceeded or nearly consumed all operating profits. For instance, in 2019 and 2020, despite generating over GH¢600 million in operating profit each year, COCOBOD still recorded losses of GH¢320 million and GH¢426 million, respectively, primarily because finance costs soared above GH¢880 million and GH¢1 billion. The situation worsened in 2021, when COCOBOD not only posted a negative operating profit of GH¢885 million but also faced its highest-ever finance cost of GH¢1.55 billion, culminating in a staggering net loss of GH¢2.44 billion. This pattern highlights that the organisation’s core operations alone cannot sustain its debt obligations, making high borrowing and poor cost management critical threats to its financial health, not just revenue or commodity price volatility.
 
 ### Margin Analysis
