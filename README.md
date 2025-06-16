@@ -52,5 +52,6 @@ A closer look at COCOBOD’s profit margins reveals a company steadily losing it
 
 COCOBOD’s finance cost burden reveals a harsh truth: the company is drowning in debt. In the early years, interest payments consumed a manageable share of operating profits, but from 2017 onward, the situation spiralled. In every single year from 2017 to 2020, COCOBOD paid more in finance costs than it earned in operating profits, a clear sign of unsustainable borrowing. In 2020, for example, it earned GH¢690 million through operations but paid over GH¢1 billion in finance charges. Effectively running a business just to service debt. The situation peaked in 2021, when operations themselves ran at a loss, while finance costs soared to GH¢1.55 billion. These figures underscore the critical point that even when COCOBOD runs efficiently at the operational level, its overwhelming debt burden leaves no room for profitability.
 
+## Summary Dashboard
 <img src="https://github.com/user-attachments/assets/3ed75c28-4d56-4740-981d-429125eeb1c3" width="850" height="500" >
  
